@@ -1,0 +1,13 @@
+@import './fonts.scss';
+
+body{
+    font-family: 'Raleway-300';
+    font-weight: 300;
+    color: #252525;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
