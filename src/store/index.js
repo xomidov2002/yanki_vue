@@ -1,14 +1,8 @@
 import { createStore } from 'vuex'
+import ui from './ui/index.js'
 
 export default createStore({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
   modules: {
+    ui
   }
 })
