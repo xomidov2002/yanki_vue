@@ -22,6 +22,7 @@
         <p class="uppercase text-sm flex justify-center items-center">
           <span>Смотреть Новинки</span>
           <img class="ml-2 -rotate-90" :src="require('@/assets/icons/row.svg')" alt="arrow"></p>
+          <p>djfs</p>
     </div>
   </section>
 </template>
